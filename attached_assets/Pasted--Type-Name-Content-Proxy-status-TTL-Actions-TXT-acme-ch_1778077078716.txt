@@ -1,0 +1,136 @@
+	
+Type
+
+Name
+
+Content
+
+Proxy status
+
+
+
+TTL
+
+Actions
+
+TXT
+_acme-challenge.payments
+"UGY1ChDnxqrgmt4ALBwvGIoPsJZ_XqtAwnKt1PmB7sQ"
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+api.checkwriter
+"replit-verify=8933d946-7cbb-49e9-809b-a279c7fa1b69"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+api._domainkey
+"k=rsa;t=s;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbmGbQMzYeMvxwtNQoXN0waGYaciuKx8mtMh5czguT4EZlJXuCt6V+l56mmt3t68FEX5JJ0q4ijG71BGoFRkl87uJi7LrQt1ZZmZCvrEII0YO4mp8sDLXC8g1aUAoi8TJgxq2MJqCaMyj5kAm3Fdy2tzftPCV/lbdiJqmBnWKjtwIDAQAB"
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+check-writer
+"replit-verify=8933d946-7cbb-49e9-809b-a279c7fa1b69"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+checkwriter
+"replit-verify=8933d946-7cbb-49e9-809b-a279c7fa1b69"
+DNS only
+
+1 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+dc-aa8e722993._spfm
+"v=spf1 include:_spf.google.com ~all"
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+demo
+"replit-verify=1b2ebcea-0077-4d4c-8da3-f837eb7a688d"
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+_dmarc
+"v=DMARC1; p=none;"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+_dmarc
+"v=DMARC1; p=none; pct=100; rua=mailto:youremailaddress@yourdomain.com; ruf=mailto:youremailaddress@yourdomain.com"
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+synccos.com
+"MS=E5E15A31F30CF49AF276427550F5218EF57E8904"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+synccos.com
+"google-site-verification=tomPUuy-iQGePzGv9igmflazz7S4wun5KfTAIQo4aBQ"
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+synccos.com
+"google-site-verification=0KG8bPQ1tVN12OoaHdKeMg2no1osUDZ74_EgN9TDskc"
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+synccos.com
+"v=spf1 include:dc-aa8e722993._spfm.synccos.com include:_spf.google.com include:_spf.elasticemail.com ~all"
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+synccos.com
+"twilio-domain-verification=cb6dd97ad08cda6adda42b20ce689827"
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+synccos.com
+"google-site-verification=QmCXI0dWxru68T7JboBLpr_Jft6Jdg0ro-ZVtV8o7YU"
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+

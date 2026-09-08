@@ -1,0 +1,49 @@
+modules = ["web", "nodejs-20", "python-3.11"]
+[agent]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Website"
+
+[[workflows.workflow]]
+name = "Website"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "node server.js"
+waitForPort = 5000
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[deployment]
+deploymentTarget = "autoscale"
+run = ["node", "server.js"]
+
+[userenv]
+
+[userenv.shared]
+ADMIN_EMAIL = "support@synccos.com"
+FROM_EMAIL = "no-reply@synccos.com"
+RECAPTCHA_SITE_KEY = "6LeYo18sAAAAAHC2R73lpQ0ldP3-LV22l5G3Vt2L"
+
+[postMerge]
+path = "scripts/post-merge.sh"
+timeoutMs = 30000

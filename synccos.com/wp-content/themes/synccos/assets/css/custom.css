@@ -1,0 +1,18 @@
+a.disabled-link {
+  opacity: 0.35;
+  pointer-events: none;
+  cursor: default;
+}
+
+.our-products .product-items .product-item .elems-btm {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.disabled-section {
+  opacity: 0.35;
+  pointer-events: none;
+  cursor: default;
+  position: relative;
+}

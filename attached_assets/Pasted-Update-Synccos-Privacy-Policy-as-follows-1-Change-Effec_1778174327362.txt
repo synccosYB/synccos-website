@@ -1,0 +1,63 @@
+Update Synccos Privacy Policy as follows:
+
+1. Change:
+Effective Date: 6/1/24
+TO:
+Effective Date: 1/1/2026
+
+--------------------------------------------------
+
+2. ADD under Section 2: Information We Collect
+
+– Platform and Financial Data: Depending on the Synccos services used, we may collect and process business data, communication records, payment information, bank account and routing details, account balances, transaction history, account ownership information, financial verification data, operational workflows, marketplace activity, and other authorized business or financial information necessary to provide communications, SaaS, fintech, operational management, and related services.
+
+--------------------------------------------------
+
+3. ADD under Section 3: How We Use Your Information
+
+– To verify linked financial accounts, process ACH payments, facilitate payouts, validate account ownership, reconcile transactions, prevent fraud, monitor balances, support bookkeeping and financial dashboards, and provide operational finance tools across Synccos platforms.
+
+– To provide, secure, and improve communications services, SaaS products, payment systems, marketplace tools, legal or professional service applications, and future business automation services.
+
+--------------------------------------------------
+
+4. ADD under Section 4: Sharing Your Information
+
+– Financial Infrastructure and Platform Providers: We may share necessary information with secure payment processors, banking institutions, communications carriers, cloud providers, compliance vendors, and infrastructure partners, including Stripe Financial Connections and related providers, solely for payment processing, compliance, verification, fraud prevention, reconciliation, communications services, and operational platform functionality.
+
+--------------------------------------------------
+
+5. ADD under Section 4 or as a new subsection:
+
+– User Financial and Platform Consent: By using Synccos platforms or connecting financial, communication, or business accounts, users expressly authorize Synccos Inc. and its authorized third-party providers to securely access, process, and use selected account, communication, and operational data necessary to deliver requested services.
+
+--------------------------------------------------
+
+6. ADD under Section 5: Data Security
+
+– Financial and platform-related data may be securely processed and stored within approved jurisdictions, including the United States, in accordance with applicable security, privacy, and regulatory standards.
+
+--------------------------------------------------
+
+7. KEEP all existing SMS compliance language.
+
+--------------------------------------------------
+
+GOAL:
+This privacy policy must now comprehensively support:
+- Stripe Financial Connections
+- ACH payments
+- Bank verification
+- Transaction access
+- Ownership verification
+- Synccos UCaaS
+- SaaS applications
+- ConnectMe
+- CheckWriter
+- Sovio Club
+- Marketplace tools
+- Financial dashboards
+- Future Synccos products
+- Broader fintech and business automation expansion
+
+Ensure language remains professional, legally cautious, enterprise-grade, and scalable without requiring major rewrites for future Synccos products.

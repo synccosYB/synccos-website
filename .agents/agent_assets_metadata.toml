@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "zG4-ebTvMsmbwhMw3greT"
+uri = "file://synccos-play-store-icon.png"
+type = "image"
+title = "Synccos Play Store Icon (512x512)"
+
+[[outputs]]
+id = "SY1geKToTVzI2LNnGZQ3_"
+uri = "file://synccos-header.jpg"
+type = "image"
+title = "Synccos Header Image (4096x2304)"

@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Feb 2026 18:16:07 at https://synccos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://synccos.com/ -O1 "C:\My Web Sites\sync2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:16:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://synccos.com/xmlrpc.php?rsd (from https://synccos.com/)
+18:16:54	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://synccos.com/)
+18:18:04	Error: 	"Not Found" (404) at link https://synccos.com/wp-content/themes/synccos/js/navigation.js?ver=1.0.0 (from https://synccos.com/)
+18:18:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://synccos.com/xmlrpc.php?rsd (from https://synccos.com/)
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=28
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=28 to https://synccos.com/connexabi/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=52
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=52 to https://synccos.com/voip/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=25
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=25 to https://synccos.com/check-writer/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=22
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=22 to https://synccos.com/pricing/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=8
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=8 to https://synccos.com/contact/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=19
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=19 to https://synccos.com/synccos-terms-of-service/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=17
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=17 to https://synccos.com/synccos-privacy-policy/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=13
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=13 to https://synccos.com/synccos-cookies-policy/
+18:18:07	Warning: 	Moved Permanently for https://synccos.com/?p=15
+18:18:07	Warning: 	File has moved from https://synccos.com/?p=15 to https://synccos.com/synccos-data-processing/
+18:18:07	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://synccos.com/xmlrpc.php?rsd (from https://synccos.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 252 links scanned, 237 files written (23954422 bytes overall) [18605194 bytes received at 155043 bytes/sec], 7304836 bytes transferred using HTTP compression in 129 files, ratio 24%, 36.7 requests per connection
+(3 errors, 20 warnings, 0 messages)

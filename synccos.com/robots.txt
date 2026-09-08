@@ -1,0 +1,14 @@
+# Robots.txt for Synccos
+# https://synccos.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://synccos.com/sitemap.xml
+
+# Disallow crawling of certain paths
+Disallow: /wp-json/
+Disallow: /comments/
+Disallow: /feed/
+Disallow: /wp-includes/

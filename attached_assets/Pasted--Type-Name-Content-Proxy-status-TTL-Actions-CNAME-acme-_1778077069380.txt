@@ -1,0 +1,466 @@
+	
+Type
+
+Name
+
+Content
+
+Proxy status
+
+
+
+TTL
+
+Actions
+
+CNAME
+_acme-challenge.voip
+voip.synccos.com.validation.skyswitch.me
+
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+admin
+d13dy59uqpl5zc.cloudfront.net
+
+DNS only
+
+30 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+am
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+api
+cavalry-bd-prod-v2.us-east-1.elasticbeanstalk.com
+
+DNS only
+
+30 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+app
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+connectme-api
+orca-app-344sb.ondigitalocean.app
+
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+connectme
+connect-me-frontend-nifzf.ondigitalocean.app
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+development.jira
+development-jira-synccos--bd14d1d8-3719-4206-8a5e-1c04f71dce2c.saas.atlassian.com
+
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+_domainconnect
+_domainconnect.gd.domaincontrol.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+em1660
+u5611674.wl175.sendgrid.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+em5985
+u32720256.wl007.sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+em7115
+u32720256.wl007.sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+em8025
+u32720256.wl007.sendgrid.net
+
+DNS only
+
+30 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+em8075
+u32720256.wl007.sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+em8675
+u32720256.wl007.sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+_f63527ce14c8301b8c3637b3c0240c1a.development.jira
+development-jira-synccos--bd14d1d8-3719-4206-8a5e-1c04f71dce2c.ssl.atlassian.com
+
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+jira
+jira-synccos-com-d576e176-203c-4b36-95e6-5555ee8d1378.saas.atlassian.com
+
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+k2._domainkey
+dkim2.mcsv.net
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+k3._domainkey
+dkim3.mcsv.net
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+meeting
+partners.dashmanager.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+payments
+hosted-checkout.stripecdn.com
+
+DNS only
+
+10 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+pay
+paylinks.commerce.godaddy.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+pbx
+partners.dashmanager.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+s1._domainkey
+s1.domainkey.u32720256.wl007.sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+s2._domainkey
+s2.domainkey.u32720256.wl007.sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+tog
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+tovim
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+tracking
+api.elasticemail.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+triangel
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+triangle
+d15z6pdwozg41d.cloudfront.net
+
+DNS only
+
+660 sec
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+tstcomp
+d15z6pdwozg41d.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+uatapi
+cavalry-be-uat.us-east-1.elasticbeanstalk.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+uber
+d15z6pdwozg41d.cloudfront.net
+
+DNS only
+
+660 sec
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+united
+d15z6pdwozg41d.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+url2068
+sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+url2984
+sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+url5283
+sendgrid.net
+
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+user1
+d15z6pdwozg41d.cloudfront.net
+
+DNS only
+
+660 sec
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+uta
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+utmostm
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+utmost
+d107lz6acyd4s3.cloudfront.net
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+CNAME
+voip
+23357-hpbx.dashmanager.com
+
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+MX
+synccos.com
+alt4.aspmx.l.google.com
+
+10
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+MX
+synccos.com
+alt2.aspmx.l.google.com
+
+5
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+MX
+synccos.com
+alt1.aspmx.l.google.com
+
+5
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+MX
+synccos.com
+alt3.aspmx.l.google.com
+
+10
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+MX
+synccos.com
+aspmx.l.google.com
+
+1
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+NS
+synccos.com
+ns74.domaincontrol.com
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+NS
+synccos.com
+ns73.domaincontrol.com
+DNS only
+
+1 hr
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+TXT
+_acme-challenge.app.synccos.com
+"SWgcqqxvajjdIEOFhXWyDEUfG4Gm2bHwRPmsnok-J2g"
+DNS only
+
+30 min
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+

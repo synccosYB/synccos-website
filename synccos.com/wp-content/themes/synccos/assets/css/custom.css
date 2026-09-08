@@ -16,3 +16,12 @@ a.disabled-link {
   cursor: default;
   position: relative;
 }
+
+
+.company-product-note {
+  max-width: 760px;
+  margin: 1rem auto 0;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: #5f6575;
+}
